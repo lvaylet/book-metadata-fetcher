@@ -3,7 +3,7 @@
 	"name": "Book Metadata Fetcher",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Fetches a book metadata (author, title, publication date, number of pages...) based on its EAN.",
+	"description": "Fills a book note's frontmatter (title, author, etc.) from its EAN/ISBN property using the Google Books API.",
 	"author": "Laurent VAYLET",
 	"authorUrl": "https://github.com/lvaylet",
 	"isDesktopOnly": false
